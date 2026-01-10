@@ -1,0 +1,15 @@
+MQL5/
+ └─ Experts/
+    └─ XAU_DCA_SIMPLE/
+       ├─ Nightmare_Survival-v4.1.mq5   (FILE CHÍNH)
+       ├─ core/
+       │   ├─ dca.mqh
+       │   ├─ trade.mqh
+       │   └─ risk.mqh
+       ├─ dashboard/
+       │   ├─ dashboard.mqh
+       │   └─ status.mqh
+       └─ utils/
+           ├─ account.mqh
+           ├─ history.mqh
+           └─ common.mqh
